@@ -22,4 +22,4 @@
 19.  [命令执行漏洞和代码执行漏洞练习](https://shimo.im/docs/cfVZoL4fNRMGSBiC/ )
 20.  [在 qibo 系统下寻找逻辑漏洞](https://shimo.im/docs/JQNYtzSZR7UYSOaP/ )
 21.  [搭建 bageCms 靶场利用 web 漏洞获取 webshell](https://shimo.im/docs/5L8cUQVUIxoj7F1M/ )
-22.  [ 服务漏洞练习(正在做)](https://shimo.im/docs/eIOz3L9pFLcSfKvv/) 
+22.  [**服务漏洞练习**](https://shimo.im/docs/eIOz3L9pFLcSfKvv/) 
